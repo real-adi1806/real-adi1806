@@ -1,6 +1,6 @@
 # Adithya Krishnan
 
-I'm a first-year MBBS student at Barts and The London, Queen Mary University of London, interested in cardiology and cardiac data science.
+I'm a first-year MBBS student at Barts and The London, interested in cardiology and cardiac data science.
 
 I study what happens when a medical AI model meets different patients. Good ranking does not necessarily mean reliable predictions.
 
